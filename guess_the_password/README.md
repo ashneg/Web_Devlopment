@@ -1,0 +1,1 @@
+﻿# Guess the PasswordSimple browser game. Open `index.html` in the browser to play the game. 
